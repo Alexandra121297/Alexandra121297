@@ -1,6 +1,6 @@
 # Hola! Soy Alexandra Mendoza 👋
 
-Mi experiencia en programación y formación en sociología me permiten diseñar soluciones innovadoras aportando un valor añadido a cualquier proyecto en el campo de la inteligencia artificial.
+Como apasionada de la inteligencia artificial, estoy siempre buscando nuevas oportunidades de aprendizaje y estoy emocionada por aplicar mis habilidades en proyectos reales. Mi enfoque de aprendizaje continuo me define como una persona comprometida y lista para enfrentar desafíos en proyectos innovadores que puedan marcar una diferencia.
 
 Algunos proyectos que verás en mi repositorio:
 
